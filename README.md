@@ -1,7 +1,3 @@
-# mnist_from_scratch
-For PyData meetup
-
-
 Hey! PyData meetup will be held this week!
 
 Here is the information you need!
